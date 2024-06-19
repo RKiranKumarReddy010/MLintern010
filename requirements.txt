@@ -1,0 +1,4 @@
+setuptools
+twine
+termcolor
+matplotlib
